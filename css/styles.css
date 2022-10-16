@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f5dc;
+    color: #a52a2a;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+
+#chef, #chicken, #soup, #waffles {
+    border-radius: 50px;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+a {
+    color: #808080;
+    text-decoration: none;
+}
+
+.sub-heading {
+    text-decoration: underline;
+}
